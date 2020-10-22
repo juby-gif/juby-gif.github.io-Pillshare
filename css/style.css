@@ -337,7 +337,7 @@ a:active {
 }
 
 @media only screen and (max-width:400px) {
-  .hero-area .counter ul li .digit {
+  .hero-area .counter ul li .digit .navigation {
     font-size: 30px;
     line-height: 30px;
     height: 40px;
@@ -360,7 +360,7 @@ a:active {
 
 /* .hero-area  */
 .navigation {
-  background-color: transparent;
+  background-color:transparent;
   -webkit-transition: all 0.3s ease-in-out 0s;
   -moz-transition: all 0.3s ease-in-out 0s;
   -ms-transition: all 0.3s ease-in-out 0s;
